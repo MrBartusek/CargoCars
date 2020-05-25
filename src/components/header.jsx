@@ -7,6 +7,7 @@ export default class Header extends Component
   render() 
   {
     return (
+      <header>
         <Navbar bg="dark" variant="dark">
           <Navbar.Brand href="#home">Cargo Cars</Navbar.Brand>
           <Nav className="mr-auto">
@@ -20,6 +21,7 @@ export default class Header extends Component
             </Nav.Link> 
           </Nav>
         </Navbar>
+      </header>
     );
   }
 }
