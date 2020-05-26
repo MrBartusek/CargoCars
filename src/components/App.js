@@ -1,6 +1,5 @@
 import React, { Fragment } from 'react';
 import '../styles/App.scss';
-import {Container, Row, Col,} from 'react-bootstrap'
 import Header from './header'
 import Footer from './footer'
 

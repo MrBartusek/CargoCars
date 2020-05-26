@@ -1,4 +1,4 @@
-import React, { Component, Link } from "react";
+import React, { Component } from "react";
 import { FaRegHeart, FaRegStickyNote } from 'react-icons/fa'
 import '../styles/footer.scss'
 
