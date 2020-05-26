@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react';
-import { Container, CardDeck } from 'react-bootstrap';
+import { Container } from 'react-bootstrap';
 import '../styles/App.scss';
 import Header from './Header';
 import Footer from './Footer';
