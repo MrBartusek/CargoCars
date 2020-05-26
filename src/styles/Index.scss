@@ -1,7 +1,10 @@
 @import "~bootstrap/scss/bootstrap";
 @import "~bootstrap/scss/variables";
 
-body {
+$primary: $red;
+
+body 
+{
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,7 +13,18 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
+code 
+{
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+a, a:visited
+{
+  color: $primary;
+}
+
+a:hover
+{
+  color: $primary;
 }
