@@ -1,8 +1,7 @@
 import React, { Fragment } from 'react';
 import '../styles/App.scss';
-import {Container, Row, Col,} from 'react-bootstrap'
-import Header from './header'
-import Footer from './footer'
+import Header from './Header'
+import Footer from './Footer'
 
 
 export default class App extends React.Component 
