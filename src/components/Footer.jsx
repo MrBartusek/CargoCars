@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { FaRegHeart, FaRegStickyNote } from 'react-icons/fa'
-import '../styles/footer.scss'
+import '../styles/Footer.scss'
 
 export default class Footer extends Component 
 {
