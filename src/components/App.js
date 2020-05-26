@@ -1,7 +1,10 @@
 import React, { Fragment } from 'react';
+import { Container, CardDeck } from 'react-bootstrap';
 import '../styles/App.scss';
 import Header from './Header';
 import Footer from './Footer';
+import CarsDeck from './CarsDeck';
+import * as CarsDatabase from '../database.json';
 
 export default class App extends React.Component 
 {
@@ -10,7 +13,9 @@ export default class App extends React.Component
 		return (
 			<Fragment>
 				<Header />
-				<div style={{height: '80vh'}}>content</div>
+				<Container>
+					<CarsDeck data={CarsDatabase}/>
+				</Container>
 				<Footer />
 			</Fragment>
 		);

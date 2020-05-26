@@ -4,5 +4,6 @@ footer p {
     text-align: center;
     padding: 14px;
     color: $secondary;
-    background-color: darken( $white, 1% );
+    background-color: darken( $white, 2% );
+    margin-bottom: 0;
 }
