@@ -129,40 +129,37 @@
         "name": "Tyrus",
         "plate": "C1TRUS",
         "tier": "Top",
-        "image ": null,
         "collection": "Birds Of Paradise"
     },
     {
         "name": "FMJ",
         "plate": "C4TCHM3",
         "tier": "Top",
-        "imag e": null,
         "collection": "Birds Of Paradise"
     },
     {
         "name": "T20",
         "plate": "CAR4M3L",
         "tier": "Top",
-        "ima ge": null,
         "collection": null
     },
     {
         "name": "Z-Type",
         "plate": "CEO",
         "tier": "Top",
-        "collect ion": ""
+        "collection": ""
     },
     {
         "name": "Tampa",
         "plate": "CH4RG3D",
         "tier": "Standard",
-        "collection": "Sta y Declasse"
+        "collection": "Stay Declasse"
     },
     {
         "name": "Coquette Classic",
         "plate": "CL455Y",
         "tier": "Mid",
-        "collect ion": ""
+        "collection": ""
     },
     {
         "name": "Tampa",
@@ -209,7 +206,7 @@
     {
         "name": "Banshee 900R",
         "plate": "DR1FT3R",
-        "t ier": "Standard",
+        "tier": "Standard",
         "collection": "Shades of Blue"
     },
     {
@@ -240,13 +237,13 @@
         "name": "Reaper",
         "plate": "GRIM",
         "tier": "Top",
-        "collection ": ""
+        "collection": ""
     },
     {
         "name": "Sabre Turbo Custom",
         "plate": "GUNZOUT",
         "tier": "Standard",
-        "collec tion": ""
+        "collection": ""
     },
     {
         "name": "Zentorno",
@@ -288,14 +285,13 @@
         "name": "FMJ",
         "plate": "JOK3R",
         "tier": "Top",
-        "image ": null,
         "collection": null
     },
     {
         "name": "Z-Type",
         "plate": "K1NGP1N",
         "tier": "Top",
-        "colle ction": ""
+        "collection": ""
     },
     {
         "name": "Feltzer",
