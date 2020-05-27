@@ -3,7 +3,7 @@ import { Container } from 'react-bootstrap';
 import '../styles/App.scss';
 import Header from './Header';
 import Footer from './Footer';
-import CarsDeck from './CarsDeck';
+import CarsSearch from './CarsSearch';
 import * as CarsDatabase from '../database.json';
 
 export default class App extends React.Component 
@@ -14,7 +14,7 @@ export default class App extends React.Component
 			<Fragment>
 				<Header />
 				<Container>
-					<CarsDeck data={CarsDatabase.default}/>
+					<CarsSearch data={CarsDatabase.default}/>
 				</Container>
 				<Footer />
 			</Fragment>

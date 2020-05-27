@@ -2,5 +2,8 @@
 
 .container 
 {
-    min-height: calc(100vh - 56px - 53px);
+    min-height: calc(100vh - 56px - 53px - 2*20px);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 0 !important;
 }
