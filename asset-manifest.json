@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/CargoCars/static/css/main.b6f1eb6c.chunk.css",
-    "main.js": "/CargoCars/static/js/main.09c63087.chunk.js",
-    "main.js.map": "/CargoCars/static/js/main.09c63087.chunk.js.map",
+    "main.js": "/CargoCars/static/js/main.ed80a386.chunk.js",
+    "main.js.map": "/CargoCars/static/js/main.ed80a386.chunk.js.map",
     "runtime-main.js": "/CargoCars/static/js/runtime-main.05c33b4c.js",
     "runtime-main.js.map": "/CargoCars/static/js/runtime-main.05c33b4c.js.map",
     "static/js/2.d23cda5e.chunk.js": "/CargoCars/static/js/2.d23cda5e.chunk.js",
     "static/js/2.d23cda5e.chunk.js.map": "/CargoCars/static/js/2.d23cda5e.chunk.js.map",
     "index.html": "/CargoCars/index.html",
-    "precache-manifest.2deeb9e5500f31b25c2f92438aaf6c82.js": "/CargoCars/precache-manifest.2deeb9e5500f31b25c2f92438aaf6c82.js",
+    "precache-manifest.78dbe2f01bd776f4b61dd98737f9fe14.js": "/CargoCars/precache-manifest.78dbe2f01bd776f4b61dd98737f9fe14.js",
     "service-worker.js": "/CargoCars/service-worker.js",
     "static/css/main.b6f1eb6c.chunk.css.map": "/CargoCars/static/css/main.b6f1eb6c.chunk.css.map",
     "static/js/2.d23cda5e.chunk.js.LICENSE.txt": "/CargoCars/static/js/2.d23cda5e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.05c33b4c.js",
     "static/js/2.d23cda5e.chunk.js",
     "static/css/main.b6f1eb6c.chunk.css",
-    "static/js/main.09c63087.chunk.js"
+    "static/js/main.ed80a386.chunk.js"
   ]
 }
