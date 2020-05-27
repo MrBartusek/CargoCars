@@ -14,7 +14,7 @@ export default class App extends React.Component
 			<Fragment>
 				<Header />
 				<Container>
-					<CarsDeck data={CarsDatabase}/>
+					<CarsDeck data={CarsDatabase.default}/>
 				</Container>
 				<Footer />
 			</Fragment>
