@@ -12,12 +12,12 @@ export default class CarCard extends Component
 				<Card.Body>
 					<Card.Title>{this.props.name}</Card.Title>
 					<Card.Text>
-						{this.props.tier} <br />
-						{this.props.collection}
+						<p><strong>Plate:</strong> {this.props.plate}</p>
+						<p><strong>Range:</strong> {this.props.tier}</p>
 					</Card.Text>
 				</Card.Body>
 				<Card.Footer>
-					<small className="text-muted">{this.props.plate}</small>
+					<small className='text-muted'>{this.props.collection ? this.props.collection : 'None'}</small>
 				</Card.Footer>
 			</Card>
 		);
