@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CargoCars/precache-manifest.48795f4dcabec27c529c32bad17a9a04.js"
+  "/CargoCars/precache-manifest.ac5d0df04ebd674b5b107a3172adce0b.js"
 );
 
 self.addEventListener('message', (event) => {
