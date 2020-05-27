@@ -16,7 +16,7 @@ export default class Header extends Component
 						<Nav.Link href="#about">About</Nav.Link>
 					</Nav>
 					<Nav className="justify-content-end">
-						<Nav.Link href="https://github.com/MrBartusek/cargo-cars">
+						<Nav.Link href="https://github.com/MrBartusek/CargoCars" target='_blank' rel="noopener noreferrer">
 							<FaGithub color="white" size="1.2em" />
 						</Nav.Link> 
 					</Nav>
