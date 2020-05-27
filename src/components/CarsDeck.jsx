@@ -10,7 +10,7 @@ export default class CarsDeck extends Component
 		return (
 			<CardDeck className='cars-deck'>
 				{this.props.data.default.map((car, i) =>  
-					<CarCard key={i} name={car.name} plate={car.plate} tier={car.tier} image={'/car-img/' + car.plate + '.jpg'} collection={car.collection} /> 
+					<CarCard key={i} name={car.name} plate={car.plate} tier={car.tier} image={process.env.PUBLIC_URL + '/car-img/' + car.plate + '.jpg'} collection={car.collection} /> 
 				)}
 			</CardDeck>
 		);
@@ -19,7 +19,7 @@ export default class CarsDeck extends Component
 	static get propTypes()
 	{
 		return {
-			data: PropTypes.array
+			data: PropTypes.object
 		};
 	}
 }

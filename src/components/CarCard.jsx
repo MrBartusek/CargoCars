@@ -8,7 +8,7 @@ export default class CarCard extends Component
 	{
 		return (
 			<Card>
-				<Card.Img variant="top" src={this.props.image} onError={this.addDefaultSrc}/>
+				<Card.Img variant="top" src={this.props.image} onError={this.addDefaultSrc} alt={this.props.name} />
 				<Card.Body>
 					<Card.Title>{this.props.name}</Card.Title>
 					<Card.Text>
@@ -25,7 +25,10 @@ export default class CarCard extends Component
 
 	addDefaultSrc(img)
 	{
-		img.target.src = '/car-img/default.jpg';
+		if(!img.target.src.includes('default.jpg'))
+		{
+			img.target.src = process.env.PUBLIC_URL + '/car-img/default.jpg';
+		}
 	}
 
 	static get propTypes()
