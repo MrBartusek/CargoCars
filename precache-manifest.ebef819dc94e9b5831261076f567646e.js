@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f3842453cf923e3e162c6adbb14bd12",
+    "revision": "0bc32771df69576af76621f3e83d4b86",
     "url": "/CargoCars/index.html"
   },
   {
-    "revision": "f6cc569257480eef1828",
+    "revision": "043c8538b08a687fa220",
     "url": "/CargoCars/static/css/main.ba6db57e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CargoCars/static/js/2.fb2f465d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f6cc569257480eef1828",
-    "url": "/CargoCars/static/js/main.16aaf7c3.chunk.js"
+    "revision": "043c8538b08a687fa220",
+    "url": "/CargoCars/static/js/main.1fb35706.chunk.js"
   },
   {
     "revision": "081cbedf2b06acb94ac2",
