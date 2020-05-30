@@ -27,7 +27,7 @@ export default class CarCard extends Component
 	{
 		if(!img.target.src.includes('default.jpg'))
 		{
-			img.target.src = process.env.PUBLIC_URL + '/car-img/default.jpg';
+			img.target.src = process.env.PUBLIC_URL + '/default.jpg';
 		}
 	}
 

@@ -145,9 +145,9 @@
     },
     {
         "name": "Z-Type",
-        "plate": "CEO",
+        "plate": "CE0",
         "tier": "Top",
-        "collection": ""
+        "collection": null
     },
     {
         "name": "Tampa",
@@ -159,7 +159,7 @@
         "name": "Coquette Classic",
         "plate": "CL455Y",
         "tier": "Mid",
-        "collection": ""
+        "collection": null
     },
     {
         "name": "Tampa",
@@ -235,15 +235,15 @@
     },
     {
         "name": "Reaper",
-        "plate": "GRIM",
+        "plate": "GR1M",
         "tier": "Top",
-        "collection": ""
+        "collection": null
     },
     {
         "name": "Sabre Turbo Custom",
         "plate": "GUNZOUT",
         "tier": "Standard",
-        "collection": ""
+        "collection": null
     },
     {
         "name": "Zentorno",
@@ -291,7 +291,7 @@
         "name": "Z-Type",
         "plate": "K1NGP1N",
         "tier": "Top",
-        "collection": ""
+        "collection": null
     },
     {
         "name": "Feltzer",
@@ -565,8 +565,14 @@
     },
     {
         "name": "Entity XF",
-        "plate": "WID3BOY",
+        "plate": "W1D3BOY",
         "tier": "Mid",
+        "collection": null
+    },
+    {
+        "name": "Stirling GT",
+        "plate": "M4J3ST1C",
+        "tier": "Top",
         "collection": null
     }
 ]
