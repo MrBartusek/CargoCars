@@ -5,7 +5,7 @@
 
 [![demo image](https://i.imgur.com/HuNTgB7.png)](https://mrbartusek.github.io/CargoCars/)
 
-Cargo Cars is a simple React app collecting all possible CEO car combinations from popular [Rocktar's GTA Online](www.rockstargames.com/GTAOnline) video game. Made to make checking if specific car is inside any collection. Made using [Create React App](https://github.com/facebook/create-react-app)
+Cargo Cars is a simple [React](reactjs.org) app collecting all possible CEO car combinations from popular [Rocktar's GTA Online](www.rockstargames.com/GTAOnline) video game. Made to make checking if specific car is inside any collection much easier. Made using [Create React App](https://github.com/facebook/create-react-app)
 
 # Running Locally
 
@@ -13,4 +13,4 @@ You can learn how to use Create React App [here](https://github.com/facebook/cre
 
 # Contributing
 
-Pull requests and issues are welcome! App is very small so it don't contain automated tests in any kind ❤️
+Pull requests and issues are welcome! App is small so automated testing is unnecessary
