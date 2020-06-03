@@ -14,10 +14,12 @@ export default class App extends React.Component
 			<Fragment>
 				<Header />
 				<Container>
-					<CarsSearch data={CarsDatabase.default.sort((a,b) =>
-					{
-						return a.tier < b.tier ? 1 : a.tier > b.tier ? -1 : 0;
-					})}/>
+					<main>
+						<CarsSearch data={CarsDatabase.default.sort((a,b) =>
+						{
+							return a.tier < b.tier ? 1 : a.tier > b.tier ? -1 : 0;
+						})}/>
+					</main>
 				</Container>
 				<Footer />
 			</Fragment>
