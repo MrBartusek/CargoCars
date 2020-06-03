@@ -13,7 +13,7 @@ export default class CarCard extends Component
 					<Card.Title>{this.props.name}</Card.Title>
 					<Card.Text>
 						<p><strong>Plate:</strong> {this.props.plate}</p>
-						<p><strong>Range:</strong> {this.props.tier}</p>
+						<p><strong>Range:</strong> {this.stringifyTier(this.props.tier)}</p>
 					</Card.Text>
 				</Card.Body>
 				<Card.Footer>
@@ -21,6 +21,22 @@ export default class CarCard extends Component
 				</Card.Footer>
 			</Card>
 		);
+	}
+
+	stringifyTier(tier)
+	{
+		if(tier === 0)
+		{
+			return 'Standard';
+		}
+		else if(tier === 1)
+		{
+			return 'Mid';
+		}
+		else if(tier === 2)
+		{
+			return 'Top';
+		}
 	}
 
 	addDefaultSrc(img)

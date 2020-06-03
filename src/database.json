@@ -2,577 +2,577 @@
     {
         "name": "Roosevelt Valor",
         "plate": "0LDT1M3R",
-        "tier": "Top",
+        "tier": 2,
         "collection": "End Of Empires"
     },
     {
         "name": "Sabre Turbo Custom",
         "plate": "0R1G1N4L",
-        "tier": "Standard",
+        "tier": 0,
         "collection": null
     },
     {
         "name": "Tropos Rallye",
         "plate": "1985",
-        "tier": "Mid",
+        "tier": 1,
         "collection": "Hip to be Square"
     },
     {
         "name": "Tropos Rallye",
         "plate": "1MSORAD",
-        "tier": "Mid",
+        "tier": 1,
         "collection": null
     },
     {
         "name": "Reaper",
         "plate": "2FA5T4U",
-        "tier": "Top",
+        "tier": 2,
         "collection": null
     },
     {
         "name": "Tropos Rallye",
         "plate": "31GHT135",
-        "tier": "Mid",
+        "tier": 1,
         "collection": null
     },
     {
         "name": "Seven-70",
         "plate": "4LLOY5",
-        "tier": "Mid",
+        "tier": 1,
         "collection": "Shades of Blue"
     },
     {
         "name": "Sultan RS",
         "plate": "5H0W0FF",
-        "tier": "Mid",
+        "tier": 1,
         "collection": null
     },
     {
         "name": "Bestia GTS",
         "plate": "5MOOTH",
-        "tier": "Standard",
+        "tier": 0,
         "collection": null
     },
     {
         "name": "Bestia GTS",
         "plate": "5T34LTH",
-        "tier": "Standard",
+        "tier": 0,
         "collection": null
     },
     {
         "name": "Massacro",
         "plate": "B055",
-        "tier": "Mid",
+        "tier": 1,
         "collection": "Molten Metal"
     },
     {
         "name": "Sabre Turbo Custom",
         "plate": "B0UNC3",
-        "tier": "Standard",
+        "tier": 0,
         "collection": "Stay Declasse"
     },
     {
         "name": "ETR1",
         "plate": "B1GBOY",
-        "tier": "Top",
+        "tier": 2,
         "collection": null
     },
     {
         "name": "Cheetah",
         "plate": "B1GC4T",
-        "tier": "Mid",
+        "tier": 1,
         "collection": null
     },
     {
         "name": "Z-Type",
         "plate": "B1GM0N3Y",
-        "tier": "Top",
+        "tier": 2,
         "collection": "End Of Empires"
     },
     {
         "name": "Tyrus",
         "plate": "B35TL4P",
-        "tier": "Top",
+        "tier": 2,
         "collection": null
     },
     {
         "name": "Massacro",
         "plate": "B4N4N4",
-        "tier": "Mid",
+        "tier": 1,
         "collection": null
     },
     {
         "name": "Bestia GTS",
         "plate": "BE4STY",
-        "tier": "Standard",
+        "tier": 0,
         "collection": "No Direct Sunlight"
     },
     {
         "name": "Cheetah",
         "plate": "BIGC47",
-        "tier": "Mid",
+        "tier": 1,
         "collection": null
     },
     {
         "name": "Mamba",
         "plate": "BLKM4MB4",
-        "tier": "Top",
+        "tier": 2,
         "collection": "Stay Declasse"
     },
     {
         "name": "Cheetah",
         "plate": "BUZZ3D",
-        "tier": "Mid",
+        "tier": 1,
         "collection": "Birds Of Paradise"
     },
     {
         "name": "Tyrus",
         "plate": "C1TRUS",
-        "tier": "Top",
+        "tier": 2,
         "collection": "Birds Of Paradise"
     },
     {
         "name": "FMJ",
         "plate": "C4TCHM3",
-        "tier": "Top",
+        "tier": 2,
         "collection": "Birds Of Paradise"
     },
     {
         "name": "T20",
         "plate": "CAR4M3L",
-        "tier": "Top",
+        "tier": 2,
         "collection": null
     },
     {
         "name": "Z-Type",
         "plate": "CE0",
-        "tier": "Top",
+        "tier": 2,
         "collection": null
     },
     {
         "name": "Tampa",
         "plate": "CH4RG3D",
-        "tier": "Standard",
+        "tier": 0,
         "collection": "Stay Declasse"
     },
     {
         "name": "Coquette Classic",
         "plate": "CL455Y",
-        "tier": "Mid",
+        "tier": 1,
         "collection": null
     },
     {
         "name": "Tampa",
         "plate": "CRU151N",
-        "tier": "Standard",
+        "tier": 0,
         "collection": null
     },
     {
         "name": "Verlierer",
         "plate": "CURV35",
-        "tier": "Mid",
+        "tier": 1,
         "collection": null
     },
     {
         "name": "Banshee 900R",
         "plate": "D0M1N0",
-        "tier": "Standard",
+        "tier": 0,
         "collection": null
     },
     {
         "name": "Omnis",
         "plate": "D1RTY",
-        "tier": "Mid",
+        "tier": 1,
         "collection": null
     },
     {
         "name": "Reaper",
         "plate": "D34TH4U",
-        "tier": "Top",
+        "tier": 2,
         "collection": "Molten Metal"
     },
     {
         "name": "T20",
         "plate": "D3V1L",
-        "tier": "Top",
+        "tier": 2,
         "collection": "Uninsurable"
     },
     {
         "name": "Nightshade",
         "plate": "DE4DLY",
-        "tier": "Standard",
+        "tier": 0,
         "collection": null
     },
     {
         "name": "Banshee 900R",
         "plate": "DR1FT3R",
-        "tier": "Standard",
+        "tier": 0,
         "collection": "Shades of Blue"
     },
     {
         "name": "Nightshade",
         "plate": "E4TME",
-        "tier": "Standard",
+        "tier": 0,
         "collection": null
     },
     {
         "name": "Sultan RS",
         "plate": "F1D3L1TY",
-        "tier": "Mid",
+        "tier": 1,
         "collection": null
     },
     {
         "name": "Seven-70",
         "plate": "FRU1TY",
-        "tier": "Mid",
+        "tier": 1,
         "collection": null
     },
     {
         "name": "X80 Proto",
         "plate": "FUTUR3",
-        "tier": "Top",
+        "tier": 2,
         "collection": null
     },
     {
         "name": "Reaper",
         "plate": "GR1M",
-        "tier": "Top",
+        "tier": 2,
         "collection": null
     },
     {
         "name": "Sabre Turbo Custom",
         "plate": "GUNZOUT",
-        "tier": "Standard",
+        "tier": 0,
         "collection": null
     },
     {
         "name": "Zentorno",
         "plate": "H3RO",
-        "tier": "Mid",
+        "tier": 1,
         "collection": null
     },
     {
         "name": "FMJ",
         "plate": "HOT4U",
-        "tier": "Top",
+        "tier": 2,
         "collection": null
     },
     {
         "name": "Jester",
         "plate": "HOTP1NK",
-        "tier": "Standard",
+        "tier": 0,
         "collection": null
     },
     {
         "name": "Banshee 900R",
         "plate": "HOWL3R",
-        "tier": "Standard",
+        "tier": 0,
         "collection": null
     },
     {
         "name": "Entity XF",
         "plate": "IML4T3",
-        "tier": "Mid",
+        "tier": 1,
         "collection": null
     },
     {
         "name": "Turismo R",
         "plate": "IN4H4ZE",
-        "tier": "Standard",
+        "tier": 0,
         "collection": null
     },
     {
         "name": "FMJ",
         "plate": "JOK3R",
-        "tier": "Top",
+        "tier": 2,
         "collection": null
     },
     {
         "name": "Z-Type",
         "plate": "K1NGP1N",
-        "tier": "Top",
+        "tier": 2,
         "collection": null
     },
     {
         "name": "Feltzer",
         "plate": "K3YL1M3",
-        "tier": "Standard",
+        "tier": 0,
         "collection": null
     },
     {
         "name": "Roosevelt Valor",
         "plate": "L4WL355",
-        "tier": "Top",
+        "tier": 2,
         "collection": null
     },
     {
         "name": "Alpha",
         "plate": "LONG80Y",
-        "tier": "Standard",
+        "tier": 0,
         "collection": null
     },
     {
         "name": "811",
         "plate": "M1DLIFE",
-        "tier": "Top",
+        "tier": 2,
         "collection": null
     },
     {
         "name": "Cheetah",
         "plate": "M1DN1GHT",
-        "tier": "Mid",
+        "tier": 1,
         "collection": null
     },
     {
         "name": "Turismo R",
         "plate": "M1LKYW4Y",
-        "tier": "Standard",
+        "tier": 0,
         "collection": null
     },
     {
         "name": "X80 Proto",
         "plate": "M4K3B4NK",
-        "tier": "Top",
+        "tier": 2,
         "collection": "Uninsurable"
     },
     {
         "name": "ETR1",
         "plate": "MON4RCH",
-        "tier": "Top",
+        "tier": 2,
         "collection": null
     },
     {
         "name": "Tampa",
         "plate": "MU5CL3",
-        "tier": "Standard",
+        "tier": 0,
         "collection": null
     },
     {
         "name": "Jester",
         "plate": "N0F00L",
-        "tier": "Standard",
+        "tier": 0,
         "collection": "Hip to be Square"
     },
     {
         "name": "Omnis",
         "plate": "OBEYM3",
-        "tier": "Mid",
+        "tier": 1,
         "collection": null
     },
     {
         "name": "Osiris",
         "plate": "OH3LLO",
-        "tier": "Top",
+        "tier": 2,
         "collection": null
     },
     {
         "name": "Mamba",
         "plate": "OLDBLU3",
-        "tier": "Top",
+        "tier": 2,
         "collection": null
     },
     {
         "name": "Zentorno",
         "plate": "OLDN3W5",
-        "tier": "Mid",
+        "tier": 1,
         "collection": null
     },
     {
         "name": "Verlierer",
         "plate": "OUTFRONT",
-        "tier": "Mid",
+        "tier": 1,
         "collection": null
     },
     {
         "name": "Entity XF",
         "plate": "OV3RFL0D",
-        "tier": "Mid",
+        "tier": 1,
         "collection": "Birds Of Paradise"
     },
     {
         "name": "Feltzer",
         "plate": "P0W3RFUL",
-        "tier": "Standard",
+        "tier": 0,
         "collection": "No Direct Sunlight"
     },
     {
         "name": "Omnis",
         "plate": "PH4R4OH",
-        "tier": "Top",
+        "tier": 2,
         "collection": null
     },
     {
         "name": "Verlierer",
         "plate": "PR3C10US",
-        "tier": "Mid",
+        "tier": 1,
         "collection": "Pastel Perfection"
     },
     {
         "name": "ETR1",
         "plate": "PR3TTY",
-        "tier": "Top",
+        "tier": 2,
         "collection": "Pastel Perfection"
     },
     {
         "name": "Alpha",
         "plate": "R31GN",
-        "tier": "Standard",
+        "tier": 0,
         "collection": null
     },
     {
         "name": "811",
         "plate": "R3G4L",
-        "tier": "Top",
+        "tier": 2,
         "collection": null
     },
     {
         "name": "Feltzer",
         "plate": "R4C3R",
-        "tier": "Standard",
+        "tier": 0,
         "collection": null
     },
     {
         "name": "Stirling GT",
         "plate": "R4LLY",
-        "tier": "Top",
+        "tier": 2,
         "collection": "Shades of Blue"
     },
     {
         "name": "811",
         "plate": "SL1CK",
-        "tier": "Top",
+        "tier": 2,
         "collection": "No Direct Sunlight"
     },
     {
         "name": "Osiris",
         "plate": "SL33K",
-        "tier": "Top",
+        "tier": 2,
         "collection": "Uninsurable"
     },
     {
         "name": "Sultan RS",
         "plate": "SN0WFLK3",
-        "tier": "Mid",
+        "tier": 1,
         "collection": "Hip to be Square"
     },
     {
         "name": "Seven-70",
         "plate": "SP33DY",
-        "tier": "Mid",
+        "tier": 1,
         "collection": null
     },
     {
         "name": "Coquette Classic",
         "plate": "T0FF33",
-        "tier": "Mid",
+        "tier": 1,
         "collection": null
     },
     {
         "name": "Coquette Classic",
         "plate": "T0PL3SS",
-        "tier": "Mid",
+        "tier": 1,
         "collection": "Pastel Perfection"
     },
     {
         "name": "Nightshade",
         "plate": "TH370S",
-        "tier": "Standard",
+        "tier": 0,
         "collection": "Fading Power"
     },
     {
         "name": "Jester",
         "plate": "TOPCLOWN",
-        "tier": "Standard",
+        "tier": 0,
         "collection": null
     },
     {
         "name": "T20",
         "plate": "TOPSP33D",
-        "tier": "Top",
+        "tier": 2,
         "collection": null
     },
     {
         "name": "Stirling GT",
         "plate": "TOUR3R",
-        "tier": "Top",
+        "tier": 2,
         "collection": null
     },
     {
         "name": "Turismo R",
         "plate": "TPD4WG",
-        "tier": "Standard",
+        "tier": 0,
         "collection": "Shades of Blue"
     },
     {
         "name": "Tyrus",
         "plate": "TR3X",
-        "tier": "Top",
+        "tier": 2,
         "collection": null
     },
     {
         "name": "Massacro",
         "plate": "TROP1CAL",
-        "tier": "Standard",
+        "tier": 0,
         "collection": null
     },
     {
         "name": "X80 Proto",
         "plate": "TURBO",
-        "tier": "Top",
+        "tier": 2,
         "collection": null
     },
     {
         "name": "Coquette BlackFin",
         "plate": "V1NT4G3",
-        "tier": "Mid",
+        "tier": 1,
         "collection": "Fading Power"
     },
     {
         "name": "Mamba",
         "plate": "V1P",
-        "tier": "Top",
+        "tier": 2,
         "collection": null
     },
     {
         "name": "Alpha",
         "plate": "V1S10NRY",
-        "tier": "Standard",
+        "tier": 0,
         "collection": "Molten Metal"
     },
     {
         "name": "Roosevelt Valor",
         "plate": "V4LOR",
-        "tier": "Top",
+        "tier": 2,
         "collection": null
     },
     {
         "name": "Omnis",
         "plate": "W1D3B0D",
-        "tier": "Top",
+        "tier": 2,
         "collection": "Hip to be Square"
     },
     {
         "name": "Zentorno",
         "plate": "W1NN1NG",
-        "tier": "Mid",
+        "tier": 1,
         "collection": "Molten Metal"
     },
     {
         "name": "Coquette BlackFin",
         "plate": "W1P3OUT",
-        "tier": "Mid",
+        "tier": 1,
         "collection": null
     },
     {
         "name": "Entity XF",
         "plate": "W1D3BOY",
-        "tier": "Mid",
+        "tier": 1,
         "collection": null
     },
     {
         "name": "Stirling GT",
         "plate": "M4J3ST1C",
-        "tier": "Top",
+        "tier": 2,
         "collection": null
     }
 ]
